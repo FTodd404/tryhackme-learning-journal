@@ -13,6 +13,4 @@ Get a first hands-on taste of offensive security by legally hacking a simulated 
 - Even basic web applications can have dangerous business-logic flaws (like unrestricted money transfers)
 
 ## Commands / Tools I Practiced
-
-# Directory brute-forcing tool used to discover hidden pages
-dirb http://fakebank.thm
+Directory brute-forcing tool used to discover hidden pages
